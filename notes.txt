@@ -1,0 +1,34 @@
+
+
+https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads
+
+Road crash locations
+https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads/resource/e88943c0-5968-4972-a15f-38e120d72ec0
+
+Road casualties
+https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads/resource/3fc53539-d529-4c1d-85f8-6c92d9e06fc8
+
+Driver demographics
+
+
+Seatbelt restraints and helmet use
+https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads/resource/177dc50c-0cf7-46ba-8a69-99695aeaa46a
+
+
+Vehicle types
+
+
+Factors in road crashes
+
+
+cd /mnt/d/2019_working/coding/vic_road_crashes_example
+jupyter notebook
+#above requires password
+jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password='' --port=9000
+http://127.0.0.1:
+
+
+fibannci trading carolyn boroden
+trade what you see  larry presento
+mastering the trade carter
+harmonic trading  carney
